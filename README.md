@@ -15,3 +15,11 @@ The following datasets were wrangled:
 - Number of cellphones owned per 100 people
 - % of internet users by country
 - Total annual oil consumption per country
+
+## Technical Skills Utilized
+* Python
+* Data Analysis/Wrangling libraries (Numpy, Pandas)
+* Data Visualization libraries (Matplotlib, Seaborn)
+* Jupyter Notebooks
+* SQL
+
